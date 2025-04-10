@@ -1,6 +1,6 @@
 
  ---------------------------------						
- --Name: Nupur Kulkarni
+ --Name: Cosmas Aondo
  --SUID: 631402325
  ---------------------------------
 
@@ -230,7 +230,7 @@ CREATE TABLE pr2.TeachingAssignment
 --Data inserted seperately was added later for testing purpose
 
 INSERT INTO pr2.Addresses (Street1, Street2 , City , State , ZIP) VALUES 
-('740 Park Avenue','Westcott Street','Syracuse','NewYork','13210'),
+('740 Park Avenue','Moi Avenue Street','Kenya','Nairobi','13210'),
 ('437 Columbus Avenue','Westcott Street','Syracuse','NewYork','13210'),
 ('128 Westcott Street',NULL,'Syracuse','NewYork','13210'),
 ('12th Avenue',NULL,'Syracuse','NewYork','13210'),
